@@ -1,0 +1,5 @@
+express 
+nodemailer 
+dotenv 
+cors 
+body-parser
